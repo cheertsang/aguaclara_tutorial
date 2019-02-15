@@ -10,7 +10,7 @@ Write two sentences about yourself, each in a different paragraph.
 
 Hi, my name is Cheer.
 
-I am on the fluoride gravity team (aka the better fluoride team)
+I am on RAM PUMP, the best team!
 
 ## Headers
 
@@ -31,19 +31,19 @@ Write 4 of your favorite words using each type of emphasis:
 
 Make an ordered list of 3 things you hope to achieve this semester, and elaborate on them with sub items. Then, make an unordered list of 3 classes that you're taking this semester:
 
-1. Optimize gravity-powered system
-    * Make system compact
-    * Write operation manual
-2. Develop a better understanding of research
-    * Study Langmuir adsorption model
-    * Research fluoride removal mechanisms
-3. I hope to get to know more team members.
-    * Talk to more people.
-    * Be more social
+1. Develop efficient system for testing Ram Pump
+    * Change out string for steel wire
+    * Write operation manual/EPA grant
+2. Improve efficiency of ram pump
+    * Find ideal spring constant
+    * Test varying water velocities
+3. I hope to find a job.
+    * Network
+    * Apply to more jobs
 
-* Watershed Engineering
-* Hydrology in a Changing Climate
-* Wastewater Microbiology
+* CEE 4520: Safe Water on Tap!
+* BEE 4500: Bioinstrumentation
+* HADM 4300: Introduction to Wines
 
 
 
